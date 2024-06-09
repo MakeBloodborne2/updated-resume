@@ -1,0 +1,87 @@
+html{
+    background-color: #EAE7D9;
+    ;    
+    color:#322C2B
+}
+h2  {background-color: #8CB9BD;}
+h1  {background-color: #ECB159;}
+*   {font-family: Arial, Helvetica, sans-serif;
+}
+#header{
+    font-family: "Tac One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30;
+}
+
+h2{
+    font-family: "Jost", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1{
+    font-family: "Jost", sans-serif;
+font-optical-sizing: auto;
+font-weight: normal;
+font-style: normal;
+}
+
+p {
+    font-family: "Jost", sans-serif;
+font-optical-sizing: auto;
+font-weight: normal;
+font-style: normal;
+}
+
+li {
+    font-family: "Jost", sans-serif;
+font-optical-sizing: auto;
+font-weight: normal;
+font-style: normal;
+}
+
+.Blue{
+    background-color: #8CB9BD;
+}
+.header-images{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.contact-link{
+border-radius: 5px;
+border:none;
+margin:8px;
+float:none;
+ }
+  .button1{
+    border: none;
+    background-color: #8CB9BD;
+    border-radius: 5px;
+ }
+.button2{
+    border: none;
+    border-radius: 5px;
+    margin-top: 27px;
+    background-color:#ECB159 ;
+}
+button{
+    display: inline-block;
+}
+.capstone-container{
+    display: grid;
+    grid-template-rows: 120px 120px;
+    grid-template-columns: 120px 120px 120px 120px;
+    gap: 5px;
+
+}
+.img{
+width: 120px;
+height: 120px;
+}
+.flag{
+    width: 200px;
+    height: 120px;
+}
